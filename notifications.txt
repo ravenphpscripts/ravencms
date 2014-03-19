@@ -1,0 +1,5 @@
+[upgrades]
+RavenCMS = 1.00.00
+
+[messages]
+info = System is up to date
